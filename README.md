@@ -73,8 +73,6 @@ http://localhost:8080
 ]
 }
 
-text
-
 ## API Endpoints
 
 ### 1. Create a Task
@@ -87,8 +85,6 @@ text
 "owner": "Shyam",
 "command": "echo platinum"
 }
-
-text
 
 **Screenshot:**
 <img width="1918" height="1078" alt="Task-1-POST" src="https://github.com/user-attachments/assets/18df4b3f-424b-43fb-a8a6-04dd73347142" />
@@ -125,8 +121,6 @@ text
 "owner": "Shyam",
 "command": "echo updated"
 }
-
-text
 
 **Screenshot:**
 
@@ -203,8 +197,6 @@ Content-Type: application/json
 "command": "echo platinum 2"
 }
 
-text
-
 **Response:**
 {
 "id": "68f4e3925c39df428267296f",
@@ -214,14 +206,10 @@ text
 "taskExecutions": []
 }
 
-text
-
 ### Execute Task Example
 
 **Request:**
 PUT http://localhost:8080/tasks/68f4e3925c39df428267296f/execute
-
-text
 
 **Response:**
 {
@@ -237,8 +225,6 @@ text
 }
 ]
 }
-
-text
 
 ## Known Limitations
 
@@ -259,8 +245,6 @@ All screenshots in this README include:
 - My name (Shyam Anand) visible in the environment
 - System timestamp visible in the taskbar
 - Complete request/response information
-
-This ensures authenticity and demonstrates that the work was completed by me.
 
 ---
 
