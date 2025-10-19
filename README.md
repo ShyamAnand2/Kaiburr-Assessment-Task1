@@ -146,7 +146,7 @@ After: The GET with all the tasks to showcase that PUT was used to update platin
 
 **Screenshot:**
 
-Before: With all the tasks present.
+Before: Refer to the ID fo the task which was deleted to showcase functionality.
 <img width="1918" height="1078" alt="Task-1-DELETE" src="https://github.com/user-attachments/assets/f17a448d-1263-47d7-9aa6-51e842e0e237" />
 
 After: One of them missing, run with the DELETE command.
