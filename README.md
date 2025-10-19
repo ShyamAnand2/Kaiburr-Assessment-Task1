@@ -44,7 +44,7 @@ task-manager/
 ### Steps to Run
 
 1. **Clone the repository:**
-git clone https://github.com/YOUR_USERNAME/Kaiburr-Assessment-Task1.git
+git clone https://github.com/ShyamAnand2/Kaiburr-Assessment-Task1.git
 cd Kaiburr-Assessment-Task1
 
 2. **Ensure MongoDB is running:**
